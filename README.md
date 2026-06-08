@@ -1,24 +1,17 @@
-<h1 align="center">Sanskar Kumar</h1>
-<h3 align="center">Data Analyst | Turning raw data into actionable insights</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sanskarkumar-in">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sanskarkumar777x@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<h1 align="center">Hey, I'm Sanskar! 👋</h1>
+<h3 align="center">Data Analyst | I turn raw data into decisions</h3>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
-Data Analyst with hands-on experience in **SQL, Power BI, Excel and Python**.
-Skilled in building dashboards, analyzing large datasets, and generating
-business insights. Background in Engineering with a CGPA of 8.75.
-Currently open to **Data Analyst** opportunities.
+Ever looked at a messy spreadsheet and thought — *there's a story in here somewhere?*
 
+That's exactly what got me into data analytics.
+
+I'm fascinated by how raw numbers, when cleaned, queried and visualized,
+can completely change how a business thinks and acts.
+Every dataset is a puzzle — and I enjoy solving it.
 ---
 
 ### 🛠️ Skills
@@ -31,29 +24,5 @@ Currently open to **Data Analyst** opportunities.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-### 📂 Featured Projects
-
-| Project | Tools | Description |
-|---------|-------|-------------|
-| 🚖 [Ola Ride Analytics](https://github.com/sanskardevx/Ola-Ride-Analytics-Dashboard) | Excel, MySQL, Power BI | Analyzed 1 lakh+ ride bookings — revenue, cancellations & ratings |
-| 🍕 [Pizza Sales Insights](https://github.com/sanskardevx/Pizza-Sales) | SQL, Python, Power BI | End-to-end analysis on 50K+ pizza orders |
-| 📊 [HR Analytics Dashboard](https://github.com/sanskardevx/hr-analytics-dashboard-powerbi) | Power BI, Excel | Attrition, salary & performance insights |
-| 📈 [Sales Dashboard](https://github.com/sanskardevx/sales-dashboard-excel) | Excel | 4 years of sales data analysis |
-
----
-
-### 💼 Experience
-
-- 🏢 **Data Analyst Intern** — PaulTech Software Services
-- 🎯 **Tata Data Visualization** — Virtual Internship
-- 🎯 **Deloitte Australia** — Data Analytics Job Simulation
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskardevx&show_icons=true&theme=dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskardevx&theme=dark&hide_border=true" width="48%"/>
 </p>
