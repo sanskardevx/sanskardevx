@@ -7,7 +7,7 @@ Ever looked at a messy spreadsheet and thought — *there's a story in here some
 That's exactly what got me into data analytics.
 
 I'm fascinated by how raw numbers, when cleaned, queried and visualized,
-can completely change how a business thinks and acts.
+can completely change how a business thinks and acts.  
 Every dataset is a puzzle — and I enjoy solving it.
 
 Here you'll find:
