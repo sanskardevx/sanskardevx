@@ -12,6 +12,12 @@ That's exactly what got me into data analytics.
 I'm fascinated by how raw numbers, when cleaned, queried and visualized,
 can completely change how a business thinks and acts.
 Every dataset is a puzzle — and I enjoy solving it.
+
+Here you'll find:
+- 📊 Data projects I've built while learning
+- 🛠️ Work across SQL, Power BI, Excel and Python
+- 📈 Dashboards that make data actually make sense
+
 ---
 
 ### 🛠️ Skills
@@ -22,5 +28,7 @@ Every dataset is a puzzle — and I enjoy solving it.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ---
