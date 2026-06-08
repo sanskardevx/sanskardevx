@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Sanskar! 👋</h1>
-<h3 align="center">Data Analyst | I turn raw data into decisions</h3>
 
 ### 👨‍💻 About Me
 
