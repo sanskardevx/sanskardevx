@@ -1,7 +1,14 @@
 <h1 align="center">Hey, I'm Sanskar! 👋</h1>
 <h3 align="center">Data Analyst | I turn raw data into decisions</h3>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/sanskarkumar-in">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sanskarkumar777x@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ### 👨‍💻 About Me
 
@@ -18,7 +25,7 @@ Here you'll find:
 - 🛠️ Work across SQL, Power BI, Excel and Python
 - 📈 Dashboards that make data actually make sense
 
----
+*Every row tells a story. I'm here to read them all.* 📈
 
 ### 🛠️ Skills
 
@@ -28,7 +35,3 @@ Here you'll find:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
----
