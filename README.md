@@ -24,5 +24,3 @@ Every dataset is a puzzle — and I enjoy solving it.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskardevx&theme=dark&hide_border=true" width="48%"/>
-</p>
